@@ -6,4 +6,4 @@ porc = int(input("Que porcentaje quieres conocer?: "))
 
 res = (num * porc)/100
 
-print("El porcentaje es del: ", res)
+print(f"El porcentaje es del: ", res)

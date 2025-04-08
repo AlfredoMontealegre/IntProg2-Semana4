@@ -7,6 +7,6 @@ descuento = salario * 0.25
 
 salario_new = salario + incremento + descuento
 
-print("Se incremento un: ", incremento)
-print("Descuento: ", descuento)
+print(f"Se incremento un: ", incremento)
+print(f"Descuento: ", descuento)
 print(f"Tu salario nuevo es: ", salario_new)

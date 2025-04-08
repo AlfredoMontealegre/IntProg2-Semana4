@@ -4,4 +4,4 @@
 nombre = str(input("Ingrese su nombre: "))
 apellido = str(input("Ingrese su apellido: "))
 
-print("Hola", nombre, apellido)
+print(f"Hola", nombre, apellido)

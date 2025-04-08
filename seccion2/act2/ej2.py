@@ -8,7 +8,7 @@ c = 25
 
 d = (a + b) * c / 2
 
-print("El Valor de A es de: ", a)
-print("El Valor de B es de: ", b)
-print("El Valor de C es de: ", c)
-print("El Valor de la opercion (a + b) * c / 2 es de: ", d)
+print(f"El Valor de A es de: ", a)
+print(f"El Valor de B es de: ", b)
+print(f"El Valor de C es de: ", c)
+print(f"El Valor de la opercion (a + b) * c / 2 es de: ", d)

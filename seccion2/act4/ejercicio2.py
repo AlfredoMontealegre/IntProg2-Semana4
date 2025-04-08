@@ -8,5 +8,5 @@ total = hombres + mujeres
 per_mujeres = mujeres / total
 per_hombres = hombres / total
 
-print("Hay un porcentaje de mujeres de: ", per_mujeres)
-print("Hay un porcentaje de hombres de: ", per_hombres)
+print(f"Hay un porcentaje de mujeres de: ", per_mujeres)
+print(f"Hay un porcentaje de hombres de: ", per_hombres)

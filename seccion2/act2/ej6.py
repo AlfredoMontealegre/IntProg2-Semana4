@@ -7,6 +7,6 @@ edad_per = int(input("Agrege el año de su nacimiento: "))
 edad_real = edad_ac - edad_per
 edad_futu = edad_real + 10
 
-print("Año actual: ", edad_ac)
-print("Edad: ", edad_real)
-print("Edad dentro de 10 años: ", edad_futu)
+print(f"Año actual: ", edad_ac)
+print(f"Edad: ", edad_real)
+print(f"Edad dentro de 10 años: ", edad_futu)
